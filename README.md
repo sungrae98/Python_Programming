@@ -2,5 +2,4 @@
 ----
 ## BaekJoon 문제 풀이
 
-----
-## Jupyter Notebook
+### Jupyter Notebook
